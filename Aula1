@@ -1,0 +1,16 @@
+
+//Sala 1
+//Érick Cardoso
+//Felipe Levy
+//Wagner Yuti
+//Raissa Toledo
+//Nicolas Carmo
+//Tomas Ott
+
+Let numero =[1,2,4,8]
+Let soma= 0
+
+Nemeros.forEach(element =>{
+Soma = soma+ element
+Console.log(soma;
+});
